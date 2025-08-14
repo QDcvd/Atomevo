@@ -25,9 +25,9 @@ wwwroot下的dist对应科研计算前端文件，Atomevo-Rear对应后端文件
 <img width="522" height="244" alt="42f320c56febf5ec2116632b0ace04a" src="https://github.com/user-attachments/assets/cfa1d9df-35d5-4f3b-aa92-060851481e7f" />
 
 
-以图中的请求地址为例，https://atomevo.com/magapi/为nginx处理，定位到/data/wwwroot/mol/下的入口文件index.php，/tool/get告诉入口文件去/data/wwwroot/mol/app下找tool文件夹下的get.php文件，method=tasks&action=tasks_chart则告诉get.php，到get文件夹下寻找tasks.php中的tasks_chart方法
+以图中的请求地址为例，https://atomevo.com/magapi/ 为nginx处理，定位到/data/wwwroot/mol/下的入口文件index.php，/tool/get告诉入口文件去/data/wwwroot/mol/app下找tool文件夹下的get.php文件，method=tasks&action=tasks_chart则告诉get.php，到get文件夹下寻找tasks.php中的tasks_chart方法
 简单来说：
-当你看到前端请求的链接时，https://atomevo.com/magapi/+文件夹路径，method对应文件名称，action 对应文件中的方法名称即可
+当你看到前端请求的链接时，https://atomevo.com/magapi/  +  文件夹路径，method对应文件名称，action 对应文件中的方法名称即可
 Token文件夹处理登陆密钥相关信息
 			  
 <img width="530" height="200" alt="4342e912b7221ec7c13089ca02bd6f7" src="https://github.com/user-attachments/assets/20556b31-22f3-482d-8587-c6a3d9b64a82" />
