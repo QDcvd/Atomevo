@@ -1,0 +1,177 @@
+{
+  "id": "1557142",
+  "name": "Magical",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon_",
+  "description": "魔术分子",
+  "glyphs": [
+    {
+      "icon_id": "13175090",
+      "name": "通知 副本 51",
+      "font_class": "mag-24",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "13175091",
+      "name": "通知 副本 52",
+      "font_class": "mag-23",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "13175092",
+      "name": "通知 副本 53",
+      "font_class": "mag-22",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "13175093",
+      "name": "通知 副本 48",
+      "font_class": "mag-21",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "13175094",
+      "name": "通知 副本 56",
+      "font_class": "mag-20",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "13175095",
+      "name": "magical",
+      "font_class": "mag-19",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "13175096",
+      "name": "通知 副本 55",
+      "font_class": "mag-18",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "13175097",
+      "name": "通知 副本 54",
+      "font_class": "mag-17",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "13175098",
+      "name": "通知 副本 57",
+      "font_class": "mag-16",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "13296378",
+      "name": "通知 副本 56",
+      "font_class": "mag-15",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "13172740",
+      "name": "commol",
+      "font_class": "mag-14",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "13073150",
+      "name": "Plants",
+      "font_class": "mag-13",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "13073149",
+      "name": "OpenBabel",
+      "font_class": "mag-12",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "13073143",
+      "name": "XVG2GSV",
+      "font_class": "mag-11",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "13073141",
+      "name": "Martionize-Protein",
+      "font_class": "mag-10",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "13073133",
+      "name": "Auto-Martini",
+      "font_class": "mag-9",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "13073128",
+      "name": "PROCHECK",
+      "font_class": "mag-8",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "13073126",
+      "name": "Dssp",
+      "font_class": "mag-7",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "13073119",
+      "name": "PLIP",
+      "font_class": "mag-6",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "13073102",
+      "name": "XScore",
+      "font_class": "mag-5",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "13073092",
+      "name": "AutoDock-Vina",
+      "font_class": "mag-4",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "13073081",
+      "name": "AutoDock4",
+      "font_class": "mag-3",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "13073072",
+      "name": "LEDock",
+      "font_class": "mag-2",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "13073053",
+      "name": "通知中心",
+      "font_class": "mag-1",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    }
+  ]
+}

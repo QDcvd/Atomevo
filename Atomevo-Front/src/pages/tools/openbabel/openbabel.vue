@@ -1,0 +1,255 @@
+<template>
+    <div>
+        <div class="mag-step">
+            <div style="font-weight: bold;margin: 0.5rem">OpenBabel
+                <div class="tool-declaration">
+                    {{$t('tools.OpenBabel')}}
+                </div>
+            </div>
+
+            <el-steps :active="StepIndex" simple finish-status="success">
+                <el-step :title="$t('content.step1')" icon="el-icon-document-add"></el-step>
+                <el-step :title="$t('content.step2')" icon="el-icon-monitor"></el-step>
+                <el-step :title="$t('content.step3')" icon="el-icon-loading"></el-step>
+                <el-step :title="$t('content.step4')" icon="el-icon-magic-stick"></el-step>
+            </el-steps>
+        </div>
+        <el-row :gutter="20">
+            <el-col :lg="24" :xl="12">
+              
+                <div class="mag-step-left">
+                   <el-switch
+              style="display: block;margin-bottom: 0.5rem"
+              v-model="isZip"
+              active-color="#67c23b"
+              inactive-color="#39bae9"
+              :active-text="this.$t('content.upload_zip')"
+              :inactive-text="this.$t('content.upload_normal')"
+              >
+          </el-switch>
+          <div v-show="isZip">
+            <div>{{$t('content.upload_zip')}}</div>
+            <UpLoadFile v-if="isZip" FormatType=".zip" UseType="package" @GetIDList="GetFileIDzip"
+                        :Count="1" :MaxSize="100" :Mode="2"></UpLoadFile>
+          </div>
+          <div  v-show="!isZip">
+                    <div>{{$t('content.project_files')}}</div>
+                    <UpLoadFile FormatType=".xyz,.mol,.mol2,.pdb,.smi,.gjf,.log,.fchk,.cdx,.pdbqt,.png,.svg" UseType="obabel" @GetIDList="GetFileID"></UpLoadFile>
+                           </div>
+                </div>
+                <div class="mag-step-left">
+                    <el-input :placeholder="$t('content.custom_down_name')" v-model="ZipName" size="small">
+                        <template slot="prepend">{{$t('content.down_name')}}</template>
+                    </el-input>
+                    <div>
+                        <div>
+                            <el-divider content-position="left">{{$t('content.openbabel_format')}}</el-divider>
+                        </div>
+                        <div>
+                            <el-checkbox-group v-model="checkList">
+                                <el-checkbox v-for="(item,index) in ChangeType" :key="index" :label="item" ></el-checkbox>
+                            </el-checkbox-group>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <el-divider content-position="left" >{{$t('content.openbabel_format2')}}</el-divider>
+                        </div>
+                        <div>
+                            <el-checkbox v-model="checkH" label="-h" ></el-checkbox>
+                        </div>
+                    </div>
+                    <div style="margin-top: 1rem">
+                        <el-button type="primary" size="small" @click="Runbabel" :disabled="StepIndex==1?false:true">
+                            {{$t('btn.run')}}
+                        </el-button>
+                    </div>
+                </div>
+
+            </el-col>
+            <el-col :lg="24" :xl="12">
+
+                <div class="mag-step-right"
+                     v-loading="resLoad"
+                     element-loading-text="等待计算结果中...">
+                    <div>{{$t('content.handle_result')}} <i :class="isResult?'el-icon-success':'el-icon-error'"></i></div>
+                    <!--成功的结果-->
+                    <div v-if="isResult" class="res-success">
+
+                        <download-table :DownData="FileData"/>
+
+                    </div>
+                    <!--错误的结果-->
+                    <div v-else class="res-error">
+                        <pre>
+                            error
+
+
+
+                        </pre>
+                    </div>
+                </div>
+            </el-col>
+
+
+        </el-row>
+
+    </div>
+</template>
+
+<script>
+  import { mapState } from 'vuex';
+  import DownloadTable from '@/components/DownLoadTable';
+  import UpLoadFile from '@/components/UploadFile';
+  // import info from '@/info';
+
+  export default {
+    name: "obabel",
+    components: {
+      DownloadTable,
+      UpLoadFile
+    },
+    data() {
+      return {
+        // info: info.obabel,         //注释
+        InfoShow: false,                 //显示版本信息
+        StepIndex: 0,                   // 步骤位置定位
+        isResult: true,                  // 处理结果
+        resLoad: false,                  //loading 动画
+        visible: false,                     //重复确认提示框
+        isUpLoad: true,                          //确认上传最终按钮
+        FileID: [],                      //文件id
+        ZipName:'',                     ///压缩包文件吗
+        isIndeterminate: true,          //效果图标
+        ChangeType:['xyz','mol','mol2','pdb','smi','gjf','log','fchk','cdx','pdbqt','png','svg'],
+        checkList:[],                     //格式类型
+        checkH:[],                      //氢
+        FileData: [     //返回的文件列表
+          // {
+          //     success_time: '2016-05-02',
+          //     name: '工程文件_AB0023.xyz',
+          //     url:'www.baidu.com/test/test.xyz'
+          // },
+        ],
+         isZip: false,                    //zip模式 二选一
+        FileZipID: ''
+      };
+    },
+    computed: {
+      //任务id
+      ...mapState({
+        TaksID:state => state.TaskIDList.OpenBabel
+      }),
+    },
+    watch: {
+      TaksID(newRes, oldRes) {
+        this.GetDown(newRes);
+      },
+      FileID(newRes,oldRes){
+        //判断步骤条
+        if(newRes.length>0){
+          this.StepIndex = 1
+        }else{
+          this.StepIndex = 0
+        }
+      },
+      FileZipID(newRes,oldRes){
+        //判断步骤条
+        if(newRes.length>0){
+          this.StepIndex = 1
+        }else{
+          this.StepIndex = 0
+        }
+      }
+    },
+    created() {
+      // console.log()
+      // this.ShowTips();
+    },
+    activated() {
+      this.resLoad = false;
+      this.FileData = [];   //再次触发应当清空文件列表
+    },
+    destroyed() {
+
+    },
+    methods: {
+      //版权信息
+
+
+      GetFileID(ids){
+        this.FileID = ids;
+      },
+       GetFileIDzip(md5id) {
+        this.FileZipID = md5id
+        // console.log(md5id,'获得GetFileIDzip')
+      },
+
+      Runbabel() {
+        let data = {
+          down_name: this.ZipName,
+          extension:this.checkList.toString(),
+          operation:this.checkH.toString()
+
+        };
+
+        if (this.isZip) {
+          data.zip_id = this.FileZipID;
+        } else {
+          data.ids = this.FileID.toString()
+        }
+
+
+        this.$api.GainBabel(data).then(res => {
+          // console.log(res)
+          this.$notify({
+            title: this.$t('info.create_task'),
+            iconClass: 'el-icon-upload',
+            dangerouslyUseHTMLString: true,
+            message: `<strong class="mag-notify2">${res.msg}</strong>`,
+          });
+          this.StepIndex = 2;
+          this.resLoad = true;
+        }).catch(err => {
+          this.$notify({
+            title: this.$t('info.error2'),
+            iconClass: 'el-icon-error',
+            dangerouslyUseHTMLString: true,
+            message: `<strong class="mag-notify3">${err.msg}</strong>`,
+          });
+
+        })
+
+      },
+
+      //获取下载
+      GetDown(id) {
+        if (id == null) {
+          // this.FileData = [];
+        } else {
+          let param = {
+            id,
+            use: this.$route.name
+          };
+          this.$api.GainFileList(param).then(res => {
+            this.StepIndex = 4;
+            this.resLoad = false;
+            // console.log('任务结果',res.files)
+            this.FileData = res.files;
+
+            this.$store.commit(`TaskIDList/${this.$route.name}_ID`, null);
+          })
+        }
+      },
+
+    }
+  }
+</script>
+
+<style lang="less">
+    .res-error {
+        font-size: 0.3rem;
+        height: 45vh;
+        overflow: auto;
+    }
+</style>

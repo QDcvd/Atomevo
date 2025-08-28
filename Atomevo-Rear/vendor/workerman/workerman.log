@@ -1,0 +1,651 @@
+2019-08-26 09:20:24 pid:3272 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 09:41:00 pid:3272 Workerman[Workerman.php] stopping ...
+2019-08-26 09:41:00 pid:3272 Workerman[Workerman.php] has been stopped
+2019-08-26 09:41:00 pid:3536 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 09:41:32 pid:3536 Workerman[Workerman.php] stopping ...
+2019-08-26 09:41:32 pid:3536 Workerman[Workerman.php] has been stopped
+2019-08-26 09:41:33 pid:3549 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 09:44:09 pid:3549 Workerman[Workerman.php] stopping ...
+2019-08-26 09:44:09 pid:3549 Workerman[Workerman.php] has been stopped
+2019-08-26 09:44:09 pid:3567 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:09:21 pid:3567 Workerman[Workerman.php] stopping ...
+2019-08-26 10:09:21 pid:3567 Workerman[Workerman.php] has been stopped
+2019-08-26 10:09:22 pid:3737 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:09:35 pid:3737 Workerman[Workerman.php] stopping ...
+2019-08-26 10:09:36 pid:3737 Workerman[Workerman.php] stopping ...
+2019-08-26 10:09:36 pid:3737 Workerman[Workerman.php] stopping ...
+2019-08-26 10:09:36 pid:3737 Workerman[Workerman.php] stopping ...
+2019-08-26 10:09:37 pid:3737 worker[PHPSocketIO:3738] exit with status 9
+2019-08-26 10:09:37 pid:3737 Workerman[Workerman.php] has been stopped
+2019-08-26 10:09:48 pid:3786 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:10:20 pid:3786 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:20 pid:3786 Workerman[Workerman.php] has been stopped
+2019-08-26 10:10:20 pid:3804 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:10:26 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:27 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:27 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:27 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:27 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:27 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:28 pid:3804 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:28 pid:3804 worker[PHPSocketIO:3805] exit with status 9
+2019-08-26 10:10:28 pid:3804 Workerman[Workerman.php] has been stopped
+2019-08-26 10:10:37 pid:3854 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:10:56 pid:3854 Workerman[Workerman.php] stopping ...
+2019-08-26 10:10:56 pid:3854 Workerman[Workerman.php] has been stopped
+2019-08-26 10:10:57 pid:3867 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:23:24 pid:3867 Workerman[Workerman.php] stopping ...
+2019-08-26 10:23:24 pid:3867 Workerman[Workerman.php] has been stopped
+2019-08-26 10:23:25 pid:3913 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:24:25 pid:3913 Workerman[Workerman.php] stopping ...
+2019-08-26 10:24:25 pid:3913 Workerman[Workerman.php] has been stopped
+2019-08-26 10:24:25 pid:3929 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:24:49 pid:3929 Workerman[Workerman.php] stopping ...
+2019-08-26 10:24:49 pid:3929 Workerman[Workerman.php] has been stopped
+2019-08-26 10:24:50 pid:3942 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:25:07 pid:3942 Workerman[Workerman.php] stopping ...
+2019-08-26 10:25:07 pid:3942 Workerman[Workerman.php] has been stopped
+2019-08-26 10:25:07 pid:4091 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:30:49 pid:4091 Workerman[Workerman.php] stopping ...
+2019-08-26 10:30:49 pid:4091 Workerman[Workerman.php] has been stopped
+2019-08-26 10:30:50 pid:4207 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:44:03 pid:4207 Workerman[Workerman.php] stopping ...
+2019-08-26 10:44:03 pid:4207 Workerman[Workerman.php] has been stopped
+2019-08-26 10:44:04 pid:4308 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:46:38 pid:4308 Workerman[Workerman.php] stopping ...
+2019-08-26 10:46:38 pid:4308 Workerman[Workerman.php] has been stopped
+2019-08-26 10:46:39 pid:4325 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 10:58:22 pid:4325 Workerman[Workerman.php] stopping ...
+2019-08-26 10:58:22 pid:4325 Workerman[Workerman.php] has been stopped
+2019-08-26 10:58:22 pid:4466 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:43:10 pid:4466 Workerman[Workerman.php] stopping ...
+2019-08-26 11:43:10 pid:4466 Workerman[Workerman.php] has been stopped
+2019-08-26 11:43:10 pid:4843 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:44:27 pid:4843 Workerman[Workerman.php] stopping ...
+2019-08-26 11:44:27 pid:4843 Workerman[Workerman.php] has been stopped
+2019-08-26 11:44:27 pid:4858 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:46:24 pid:4858 Workerman[Workerman.php] stopping ...
+2019-08-26 11:46:24 pid:4858 Workerman[Workerman.php] has been stopped
+2019-08-26 11:46:24 pid:4888 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:51:04 pid:4888 Workerman[Workerman.php] stopping ...
+2019-08-26 11:51:04 pid:4888 Workerman[Workerman.php] has been stopped
+2019-08-26 11:51:04 pid:4923 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:56:07 pid:4923 Workerman[Workerman.php] stopping ...
+2019-08-26 11:56:07 pid:4923 Workerman[Workerman.php] has been stopped
+2019-08-26 11:56:07 pid:5056 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:56:46 pid:5056 Workerman[Workerman.php] stopping ...
+2019-08-26 11:56:46 pid:5056 Workerman[Workerman.php] has been stopped
+2019-08-26 11:56:47 pid:5069 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:57:24 pid:5069 Workerman[Workerman.php] stopping ...
+2019-08-26 11:57:24 pid:5069 Workerman[Workerman.php] has been stopped
+2019-08-26 11:57:24 pid:5084 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 11:57:53 pid:5084 Workerman[Workerman.php] stopping ...
+2019-08-26 11:57:53 pid:5084 Workerman[Workerman.php] has been stopped
+2019-08-26 11:57:54 pid:5097 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:03:04 pid:5097 Workerman[Workerman.php] stopping ...
+2019-08-26 12:03:04 pid:5097 Workerman[Workerman.php] has been stopped
+2019-08-26 12:03:05 pid:5188 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:08:00 pid:5188 Workerman[Workerman.php] stopping ...
+2019-08-26 12:08:00 pid:5188 Workerman[Workerman.php] has been stopped
+2019-08-26 12:08:00 pid:5209 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:11:54 pid:5209 Workerman[Workerman.php] stopping ...
+2019-08-26 12:11:54 pid:5209 Workerman[Workerman.php] has been stopped
+2019-08-26 12:11:54 pid:5230 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:11:59 pid:5231 Worker[5231] process terminated with ERROR: E_RECOVERABLE_ERROR "Object of class PHPSocketIO\Nsp could not be converted to string in /data/wwwroot/mol/Workerman.php on line 67"
+2019-08-26 12:11:59 pid:5230 worker[PHPSocketIO:5231] exit with status 65280
+2019-08-26 12:12:09 pid:5232 Worker[5232] process terminated with ERROR: E_RECOVERABLE_ERROR "Object of class PHPSocketIO\Nsp could not be converted to string in /data/wwwroot/mol/Workerman.php on line 67"
+2019-08-26 12:12:09 pid:5230 worker[PHPSocketIO:5232] exit with status 65280
+2019-08-26 12:12:17 pid:5234 Worker[5234] process terminated with ERROR: E_RECOVERABLE_ERROR "Object of class PHPSocketIO\Nsp could not be converted to string in /data/wwwroot/mol/Workerman.php on line 67"
+2019-08-26 12:12:17 pid:5230 worker[PHPSocketIO:5234] exit with status 65280
+2019-08-26 12:12:27 pid:5230 Workerman[Workerman.php] stopping ...
+2019-08-26 12:12:27 pid:5230 Workerman[Workerman.php] has been stopped
+2019-08-26 12:12:28 pid:5247 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:12:45 pid:5247 Workerman[Workerman.php] stopping ...
+2019-08-26 12:12:45 pid:5247 Workerman[Workerman.php] has been stopped
+2019-08-26 12:12:46 pid:5260 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:13:24 pid:5260 Workerman[Workerman.php] stopping ...
+2019-08-26 12:13:24 pid:5260 Workerman[Workerman.php] has been stopped
+2019-08-26 12:13:25 pid:5277 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 12:17:39 pid:5277 Workerman[Workerman.php] stopping ...
+2019-08-26 12:17:39 pid:5277 Workerman[Workerman.php] has been stopped
+2019-08-26 12:17:40 pid:5291 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 13:35:20 pid:5291 Workerman[Workerman.php] stopping ...
+2019-08-26 13:35:20 pid:5291 Workerman[Workerman.php] has been stopped
+2019-08-26 13:35:20 pid:5850 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 14:56:01 pid:5850 Workerman[Workerman.php] stopping ...
+2019-08-26 14:56:01 pid:5850 Workerman[Workerman.php] has been stopped
+2019-08-26 14:56:18 pid:6908 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 14:59:39 pid:6908 Workerman[Workerman.php] stopping ...
+2019-08-26 14:59:39 pid:6908 Workerman[Workerman.php] has been stopped
+2019-08-26 14:59:40 pid:6976 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 14:59:48 pid:6976 Workerman[Workerman.php] stopping ...
+2019-08-26 14:59:48 pid:6976 Workerman[Workerman.php] has been stopped
+2019-08-26 14:59:48 pid:6989 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:10:32 pid:6989 Workerman[Workerman.php] stopping ...
+2019-08-26 15:10:32 pid:6989 Workerman[Workerman.php] has been stopped
+2019-08-26 15:10:44 pid:7049 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:20:44 pid:7049 Workerman[Workerman.php] stopping ...
+2019-08-26 15:20:44 pid:7049 Workerman[Workerman.php] has been stopped
+2019-08-26 15:20:44 pid:7087 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:25:47 pid:7087 Workerman[Workerman.php] stopping ...
+2019-08-26 15:25:47 pid:7087 Workerman[Workerman.php] has been stopped
+2019-08-26 15:25:48 pid:7289 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:25:54 pid:7290 Worker[7290] process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined method PHPSocketIO\Nsp::disconnect() in /data/wwwroot/mol/Workerman.php:46
+Stack trace:
+#0 [internal function]: {closure}('f6347b8b217260c...')
+#1 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Event/Emitter.php(93): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: PHPSocketIO\Event\Emitter->emit('token', 'f6347b8b217260c...')
+#3 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Socket.php(307): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Socket.php(269): PHPSocketIO\Socket->onevent(Array)
+#5 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Client.php(202): PHPSocketIO\Socket->onpacket(Array)
+#6 [internal function]: PHPSocketIO\Client->ondecoded(Array)
+#7 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Event/Emitter.php(93): call_user_func_array(Array, Array)
+#8 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Parser/Decoder.php(34): PHPSocketIO\Event\Emitter->emit('decoded', Array)
+#9 /data/ww in /data/wwwroot/mol/Workerman.php on line 46"
+2019-08-26 15:25:54 pid:7289 worker[PHPSocketIO:7290] exit with status 65280
+2019-08-26 15:25:56 pid:7291 Worker[7291] process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined method PHPSocketIO\Nsp::disconnect() in /data/wwwroot/mol/Workerman.php:46
+Stack trace:
+#0 [internal function]: {closure}('f6347b8b217260c...')
+#1 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Event/Emitter.php(93): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: PHPSocketIO\Event\Emitter->emit('token', 'f6347b8b217260c...')
+#3 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Socket.php(307): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Socket.php(269): PHPSocketIO\Socket->onevent(Array)
+#5 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Client.php(202): PHPSocketIO\Socket->onpacket(Array)
+#6 [internal function]: PHPSocketIO\Client->ondecoded(Array)
+#7 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Event/Emitter.php(93): call_user_func_array(Array, Array)
+#8 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Parser/Decoder.php(34): PHPSocketIO\Event\Emitter->emit('decoded', Array)
+#9 /data/ww in /data/wwwroot/mol/Workerman.php on line 46"
+2019-08-26 15:25:56 pid:7289 worker[PHPSocketIO:7291] exit with status 65280
+2019-08-26 15:25:59 pid:7292 Worker[7292] process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined method PHPSocketIO\Nsp::disconnect() in /data/wwwroot/mol/Workerman.php:46
+Stack trace:
+#0 [internal function]: {closure}('f6347b8b217260c...')
+#1 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Event/Emitter.php(93): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: PHPSocketIO\Event\Emitter->emit('token', 'f6347b8b217260c...')
+#3 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Socket.php(307): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Socket.php(269): PHPSocketIO\Socket->onevent(Array)
+#5 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Client.php(202): PHPSocketIO\Socket->onpacket(Array)
+#6 [internal function]: PHPSocketIO\Client->ondecoded(Array)
+#7 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Event/Emitter.php(93): call_user_func_array(Array, Array)
+#8 /data/wwwroot/mol/vendor/workerman/phpsocket.io/src/Parser/Decoder.php(34): PHPSocketIO\Event\Emitter->emit('decoded', Array)
+#9 /data/ww in /data/wwwroot/mol/Workerman.php on line 46"
+2019-08-26 15:25:59 pid:7289 worker[PHPSocketIO:7292] exit with status 65280
+2019-08-26 15:26:02 pid:7289 Workerman[Workerman.php] stopping ...
+2019-08-26 15:26:02 pid:7289 Workerman[Workerman.php] has been stopped
+2019-08-26 15:26:48 pid:7309 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:39:11 pid:7309 Workerman[Workerman.php] stopping ...
+2019-08-26 15:39:11 pid:7309 Workerman[Workerman.php] has been stopped
+2019-08-26 15:39:12 pid:7434 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:39:17 pid:7435 Error: Call to a member function getCache() on null in /data/wwwroot/mol/Workerman.php:64
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 /data/wwwroot/mol/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#3 /data/wwwroot/mol/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#5 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#6 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#8 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#9 /data/wwwroot/mol/Workerman.php(71): Workerman\Worker::runAll()
+#10 {main}
+2019-08-26 15:39:17 pid:7435 Worker[7435] process terminated
+2019-08-26 15:39:17 pid:7434 worker[PHPSocketIO:7435] exit with status 64000
+2019-08-26 15:39:27 pid:7437 Error: Call to a member function getCache() on null in /data/wwwroot/mol/Workerman.php:64
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 /data/wwwroot/mol/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#3 /data/wwwroot/mol/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#5 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#6 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#8 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#9 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#11 /data/wwwroot/mol/Workerman.php(71): Workerman\Worker::runAll()
+#12 {main}
+2019-08-26 15:39:27 pid:7437 Worker[7437] process terminated
+2019-08-26 15:39:27 pid:7434 worker[PHPSocketIO:7437] exit with status 64000
+2019-08-26 15:39:28 pid:7439 Error: Call to a member function getCache() on null in /data/wwwroot/mol/Workerman.php:64
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 /data/wwwroot/mol/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #41)
+#3 /data/wwwroot/mol/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#5 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#6 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#8 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#9 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#11 /data/wwwroot/mol/Workerman.php(71): Workerman\Worker::runAll()
+#12 {main}
+2019-08-26 15:39:28 pid:7439 Worker[7439] process terminated
+2019-08-26 15:39:28 pid:7434 worker[PHPSocketIO:7439] exit with status 64000
+2019-08-26 15:39:33 pid:7440 Error: Call to a member function getCache() on null in /data/wwwroot/mol/Workerman.php:64
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 /data/wwwroot/mol/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#3 /data/wwwroot/mol/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#4 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#5 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#6 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#8 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#9 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#10 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#11 /data/wwwroot/mol/Workerman.php(71): Workerman\Worker::runAll()
+#12 {main}
+2019-08-26 15:39:33 pid:7440 Worker[7440] process terminated
+2019-08-26 15:39:33 pid:7434 worker[PHPSocketIO:7440] exit with status 64000
+2019-08-26 15:39:43 pid:7434 Workerman[Workerman.php] stopping ...
+2019-08-26 15:39:43 pid:7434 Workerman[Workerman.php] has been stopped
+2019-08-26 15:39:44 pid:7454 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:39:58 pid:7454 Workerman[Workerman.php] stopping ...
+2019-08-26 15:39:58 pid:7454 Workerman[Workerman.php] has been stopped
+2019-08-26 15:39:59 pid:7467 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:42:00 pid:7467 Workerman[Workerman.php] stopping ...
+2019-08-26 15:42:00 pid:7467 Workerman[Workerman.php] has been stopped
+2019-08-26 15:42:00 pid:7508 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:42:16 pid:7508 Workerman[Workerman.php] stopping ...
+2019-08-26 15:42:16 pid:7508 Workerman[Workerman.php] has been stopped
+2019-08-26 15:42:56 pid:7523 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:44:54 pid:7523 Workerman[Workerman.php] stopping ...
+2019-08-26 15:44:54 pid:7523 Workerman[Workerman.php] has been stopped
+2019-08-26 15:44:55 pid:7556 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:45:25 pid:7556 Workerman[Workerman.php] stopping ...
+2019-08-26 15:45:25 pid:7556 Workerman[Workerman.php] has been stopped
+2019-08-26 15:45:26 pid:7569 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:45:59 pid:7569 Workerman[Workerman.php] stopping ...
+2019-08-26 15:45:59 pid:7569 Workerman[Workerman.php] has been stopped
+2019-08-26 15:46:00 pid:7583 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 15:46:52 pid:7583 Workerman[Workerman.php] stopping ...
+2019-08-26 15:46:52 pid:7583 Workerman[Workerman.php] has been stopped
+2019-08-26 15:46:52 pid:7600 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 16:01:08 pid:7600 Workerman[Workerman.php] stopping ...
+2019-08-26 16:01:08 pid:7600 Workerman[Workerman.php] has been stopped
+2019-08-26 16:01:08 pid:7767 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 16:02:09 pid:7767 Workerman[Workerman.php] stopping ...
+2019-08-26 16:02:09 pid:7767 Workerman[Workerman.php] has been stopped
+2019-08-26 16:02:09 pid:7781 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 16:18:01 pid:7781 Workerman[Workerman.php] stopping ...
+2019-08-26 16:18:01 pid:7781 Workerman[Workerman.php] has been stopped
+2019-08-26 16:18:01 pid:7804 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 16:29:00 pid:7804 Workerman[Workerman.php] stopping ...
+2019-08-26 16:29:00 pid:7804 Workerman[Workerman.php] has been stopped
+2019-08-26 16:29:01 pid:7954 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 16:58:05 pid:7954 Workerman[Workerman.php] stopping ...
+2019-08-26 16:58:05 pid:7954 Workerman[Workerman.php] has been stopped
+2019-08-26 16:58:05 pid:8177 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 17:01:40 pid:8177 Workerman[Workerman.php] stopping ...
+2019-08-26 17:01:40 pid:8177 Workerman[Workerman.php] has been stopped
+2019-08-26 17:01:41 pid:8212 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 17:14:05 pid:8212 Workerman[Workerman.php] stopping ...
+2019-08-26 17:14:05 pid:8212 Workerman[Workerman.php] has been stopped
+2019-08-26 17:14:06 pid:8237 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 17:55:07 pid:8237 Workerman[Workerman.php] stopping ...
+2019-08-26 17:55:07 pid:8237 Workerman[Workerman.php] has been stopped
+2019-08-26 17:55:08 pid:11122 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-26 17:58:04 pid:11122 Workerman[Workerman.php] stopping ...
+2019-08-26 17:58:04 pid:11122 Workerman[Workerman.php] has been stopped
+2019-08-26 17:58:04 pid:11246 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 09:09:05 pid:3043 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 09:09:36 pid:3181 Workerman[./Workerman.php] stop 
+2019-08-27 09:09:36 pid:3181 Workerman[./Workerman.php] is stopping ...
+2019-08-27 09:09:36 pid:3043 Workerman[Workerman.php] stopping ...
+2019-08-27 09:09:36 pid:3043 Workerman[Workerman.php] has been stopped
+2019-08-27 09:09:36 pid:3181 Workerman[./Workerman.php] stop success
+2019-08-27 09:09:40 pid:3200 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 09:18:48 pid:3200 Workerman[Workerman.php] stopping ...
+2019-08-27 09:18:48 pid:3200 Workerman[Workerman.php] has been stopped
+2019-08-27 10:46:13 pid:3090 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 10:50:39 pid:3090 Workerman[Workerman.php] stopping ...
+2019-08-27 10:50:39 pid:3090 Workerman[Workerman.php] has been stopped
+2019-08-27 11:30:07 pid:3770 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 11:43:06 pid:3770 Workerman[Workerman.php] stopping ...
+2019-08-27 11:43:06 pid:3770 Workerman[Workerman.php] has been stopped
+2019-08-27 14:07:53 pid:3493 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 14:09:46 pid:3493 Workerman[Workerman.php] stopping ...
+2019-08-27 14:09:46 pid:3493 Workerman[Workerman.php] has been stopped
+2019-08-27 14:09:47 pid:3509 Workerman[./Workerman.php] start in DEBUG mode
+2019-08-27 14:15:50 pid:3509 Workerman[Workerman.php] stopping ...
+2019-08-27 14:15:50 pid:3509 Workerman[Workerman.php] has been stopped
+2019-08-27 14:27:50 pid:3854 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-16 09:15:16 pid:3440 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-17 09:11:32 pid:3015 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-17 16:27:36 pid:3015 Workerman[Workerman.php] stopping ...
+2019-09-17 16:27:36 pid:3015 Workerman[Workerman.php] has been stopped
+2019-09-17 16:30:25 pid:3073 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-17 18:33:15 pid:3073 Workerman[Workerman.php] stopping ...
+2019-09-17 18:33:15 pid:3073 Workerman[Workerman.php] has been stopped
+2019-09-18 09:27:40 pid:3168 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-18 16:12:12 pid:3168 Workerman[Workerman.php] stopping ...
+2019-09-18 16:12:12 pid:3168 Workerman[Workerman.php] has been stopped
+2019-09-18 16:12:14 pid:27469 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-18 16:12:14 pid:27470 Exception: Cannot assign requested address in /data/wwwroot/mol/vendor/workerman/workerman/Worker.php:2216
+Stack trace:
+#0 /data/wwwroot/mol/Workerman.php(67): Workerman\Worker->listen()
+#1 [internal function]: {closure}(Object(Workerman\Worker))
+#2 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(2342): call_user_func(Object(Closure), Object(Workerman\Worker))
+#3 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#4 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#6 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#7 /data/wwwroot/mol/Workerman.php(70): Workerman\Worker::runAll()
+#8 {main}
+2019-09-18 16:12:15 pid:27470 Worker[27470] process terminated
+2019-09-18 16:12:15 pid:27469 worker[PHPSocketIO:27470] exit with status 64000
+2019-09-18 16:12:15 pid:27472 Exception: Cannot assign requested address in /data/wwwroot/mol/vendor/workerman/workerman/Worker.php:2216
+Stack trace:
+#0 /data/wwwroot/mol/Workerman.php(67): Workerman\Worker->listen()
+#1 [internal function]: {closure}(Object(Workerman\Worker))
+#2 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(2342): call_user_func(Object(Closure), Object(Workerman\Worker))
+#3 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#4 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#6 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#7 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#8 /data/wwwroot/mol/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#9 /data/wwwroot/mol/Workerman.php(70): Workerman\Worker::runAll()
+#10 {main}
+2019-09-18 16:12:15 pid:27472 Worker[27472] process terminated
+2019-09-18 16:12:15 pid:27469 Workerman[Workerman.php] stopping ...
+2019-09-18 16:12:15 pid:27469 worker[PHPSocketIO:27472] exit with status 64000
+2019-09-18 16:12:15 pid:27469 Workerman[Workerman.php] has been stopped
+2019-09-18 16:12:24 pid:27491 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-18 18:47:32 pid:27491 Workerman[Workerman.php] stopping ...
+2019-09-18 18:47:32 pid:27491 Workerman[Workerman.php] has been stopped
+2019-09-19 09:09:07 pid:2942 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-19 18:52:32 pid:2942 Workerman[Workerman.php] stopping ...
+2019-09-19 18:52:32 pid:2942 Workerman[Workerman.php] has been stopped
+2019-09-20 09:03:29 pid:2953 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-20 13:41:14 pid:2953 Workerman[Workerman.php] stopping ...
+2019-09-20 13:41:14 pid:2953 Workerman[Workerman.php] has been stopped
+2019-09-20 13:41:20 pid:12000 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-20 18:43:53 pid:12000 Workerman[Workerman.php] stopping ...
+2019-09-20 18:43:53 pid:12000 Workerman[Workerman.php] has been stopped
+2019-09-21 02:57:25 pid:13577 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-21 03:00:55 pid:13577 Workerman[Workerman.php] stopping ...
+2019-09-21 03:00:55 pid:13577 Workerman[Workerman.php] has been stopped
+2019-09-21 03:01:05 pid:13691 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-21 16:48:21 pid:13691 Workerman[Workerman.php] stopping ...
+2019-09-21 16:48:21 pid:13691 Workerman[Workerman.php] has been stopped
+2019-09-23 09:14:24 pid:12489 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-24 09:32:53 pid:84996 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-24 09:46:05 pid:84996 Workerman[Workerman.php] stopping ...
+2019-09-24 09:46:05 pid:84996 Workerman[Workerman.php] has been stopped
+2019-09-24 10:15:38 pid:11037 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-24 10:19:38 pid:11037 Workerman[Workerman.php] stopping ...
+2019-09-24 10:19:38 pid:11037 Workerman[Workerman.php] has been stopped
+2019-09-24 10:21:06 pid:3183 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-24 13:37:20 pid:3183 Workerman[Workerman.php] stopping ...
+2019-09-24 13:37:20 pid:3183 Workerman[Workerman.php] has been stopped
+2019-09-24 13:56:55 pid:3455 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-24 14:51:19 pid:3455 Workerman[Workerman.php] stopping ...
+2019-09-24 14:53:47 pid:3329 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-24 18:33:13 pid:3329 Workerman[Workerman.php] stopping ...
+2019-09-24 18:33:13 pid:3329 Workerman[Workerman.php] has been stopped
+2019-09-25 09:01:54 pid:3495 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-25 13:42:28 pid:18732 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-25 18:30:43 pid:18732 Workerman[Workerman.php] stopping ...
+2019-09-25 18:30:43 pid:18732 Workerman[Workerman.php] has been stopped
+2019-09-26 09:21:45 pid:4171 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-29 09:11:14 pid:3238 Workerman[./Workerman.php] start in DEBUG mode
+2019-09-29 18:34:50 pid:3238 Workerman[Workerman.php] stopping ...
+2019-09-29 18:34:50 pid:3238 Workerman[Workerman.php] has been stopped
+2019-09-30 09:06:39 pid:3271 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 09:28:29 pid:4637 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 09:28:29 pid:4637 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 09:28:29 pid:3271 Workerman[Workerman.php] stopping ...
+2019-09-30 09:28:29 pid:3271 Workerman[Workerman.php] has been stopped
+2019-09-30 09:28:29 pid:4637 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-09-30 09:28:29 pid:4639 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 09:45:18 pid:5850 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 09:45:18 pid:5850 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 09:45:18 pid:4639 Workerman[Workerman.php] stopping ...
+2019-09-30 09:45:18 pid:4639 Workerman[Workerman.php] has been stopped
+2019-09-30 09:45:18 pid:5850 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-09-30 09:45:46 pid:5937 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 10:00:15 pid:7042 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 10:00:15 pid:7042 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 10:00:15 pid:5937 Workerman[Workerman.php] stopping ...
+2019-09-30 10:00:15 pid:5937 Workerman[Workerman.php] has been stopped
+2019-09-30 10:00:15 pid:7042 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-09-30 10:00:15 pid:7045 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 10:53:11 pid:14504 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 10:53:11 pid:14504 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 10:53:11 pid:7045 Workerman[Workerman.php] stopping ...
+2019-09-30 10:53:11 pid:7045 Workerman[Workerman.php] has been stopped
+2019-09-30 10:53:11 pid:14504 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-09-30 10:53:11 pid:14506 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 10:56:57 pid:15014 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 10:56:57 pid:15014 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 10:56:57 pid:14506 Workerman[Workerman.php] stopping ...
+2019-09-30 10:56:57 pid:14506 Workerman[Workerman.php] has been stopped
+2019-09-30 10:56:57 pid:15014 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-09-30 10:56:57 pid:15017 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 14:29:15 pid:62871 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 14:29:15 pid:62871 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 14:29:15 pid:15017 Workerman[Workerman.php] stopping ...
+2019-09-30 14:29:15 pid:15017 Workerman[Workerman.php] has been stopped
+2019-09-30 14:29:15 pid:62871 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-09-30 14:29:15 pid:62873 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-09-30 18:33:26 pid:104744 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-09-30 18:33:26 pid:104744 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-09-30 18:33:26 pid:62873 Workerman[Workerman.php] stopping ...
+2019-09-30 18:33:26 pid:62873 Workerman[Workerman.php] has been stopped
+2019-09-30 18:33:26 pid:104744 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-10-08 09:20:45 pid:1570 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-08 18:32:41 pid:37534 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-08 18:32:41 pid:37534 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-10-08 18:32:41 pid:1570 Workerman[Workerman.php] stopping ...
+2019-10-08 18:32:41 pid:1570 Workerman[Workerman.php] has been stopped
+2019-10-08 18:32:41 pid:37534 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-10-09 09:03:40 pid:1572 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-09 10:21:32 pid:64818 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-09 10:21:32 pid:64818 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-10-09 10:21:32 pid:1572 Workerman[Workerman.php] stopping ...
+2019-10-09 10:21:32 pid:1572 Workerman[Workerman.php] has been stopped
+2019-10-09 10:21:32 pid:64818 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-10-09 10:22:48 pid:3419 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-09 18:40:54 pid:60386 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-09 18:40:54 pid:60386 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-10-09 18:40:54 pid:3419 Workerman[Workerman.php] stopping ...
+2019-10-09 18:40:54 pid:3419 Workerman[Workerman.php] has been stopped
+2019-10-09 18:40:54 pid:60386 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-10-10 09:24:50 pid:3316 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:34:30 pid:88699 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:34:30 pid:88701 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:34:30 pid:88701 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:34:50 pid:88791 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:34:50 pid:88793 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:34:50 pid:88793 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:35:11 pid:88864 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:35:11 pid:88866 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:35:11 pid:88866 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:35:31 pid:88916 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:35:31 pid:88918 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:35:31 pid:88918 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:35:51 pid:88993 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:35:51 pid:88995 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:35:51 pid:88995 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:36:11 pid:89070 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:36:11 pid:89072 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:36:11 pid:89072 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:36:32 pid:89142 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:36:32 pid:89144 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:36:32 pid:89144 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:36:52 pid:89172 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:36:52 pid:89174 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:36:52 pid:89174 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:37:12 pid:89245 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:37:12 pid:89247 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:37:12 pid:89247 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:37:32 pid:89283 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:37:32 pid:89285 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:37:32 pid:89285 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:37:53 pid:89303 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:37:53 pid:89305 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:37:53 pid:89305 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:38:13 pid:89333 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:38:13 pid:89335 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:38:13 pid:89335 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:38:33 pid:89373 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:38:33 pid:89375 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:38:33 pid:89375 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:38:53 pid:89414 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:38:53 pid:89416 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:38:53 pid:89416 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:39:14 pid:89442 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:39:14 pid:89443 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:39:14 pid:89443 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:39:34 pid:89463 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:39:34 pid:89466 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:39:34 pid:89466 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:39:54 pid:89484 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:39:54 pid:89486 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:39:54 pid:89486 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:40:14 pid:89546 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:40:14 pid:89548 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:40:14 pid:89548 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:40:35 pid:89568 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:40:35 pid:89571 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:40:35 pid:89571 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:40:55 pid:89589 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:40:55 pid:89591 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:40:55 pid:89591 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:41:15 pid:89619 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:41:15 pid:89621 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:41:15 pid:89621 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-10 18:41:35 pid:89639 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-10 18:41:35 pid:89641 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-10 18:41:35 pid:89641 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:29:29 pid:9984 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:29:29 pid:9998 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:29:29 pid:9998 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:29:49 pid:10036 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:29:49 pid:10038 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:29:49 pid:10038 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:30:05 pid:10075 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:30:09 pid:10094 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:30:09 pid:10112 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:30:09 pid:10112 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:30:29 pid:10135 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:30:29 pid:10137 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:30:29 pid:10137 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:30:50 pid:10164 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:30:50 pid:10166 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:30:50 pid:10166 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:31:10 pid:10184 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:31:10 pid:10187 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:31:10 pid:10187 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:31:30 pid:10206 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:31:30 pid:10208 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:31:30 pid:10208 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:31:50 pid:10235 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:31:50 pid:10237 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:31:50 pid:10237 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:32:11 pid:10267 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:32:11 pid:10269 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:32:11 pid:10269 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:32:31 pid:10310 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:32:31 pid:10311 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:32:31 pid:10311 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:32:51 pid:10338 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:32:51 pid:10340 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:32:51 pid:10340 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:33:11 pid:10358 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-11 09:33:11 pid:10360 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-11 09:33:11 pid:10360 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2019-10-11 09:33:32 pid:10379 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-14 09:18:30 pid:21909 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2019-10-14 09:18:30 pid:21909 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2019-10-14 09:18:30 pid:10379 Workerman[Workerman.php] stopping ...
+2019-10-14 09:18:30 pid:10379 Workerman[Workerman.php] has been stopped
+2019-10-14 09:18:30 pid:21909 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2019-10-22 09:36:57 pid:78594 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-26 14:46:19 pid:8567 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-10-29 09:08:38 pid:9669 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2019-11-12 14:57:55 pid:60646 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 12:28:44 pid:21311 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 12:28:44 pid:21311 Workerman[/data/wwwroot/mol/Workerman.php] not run
+2020-02-28 12:28:44 pid:9651 Workerman[Workerman.php] stopping ...
+2020-02-28 12:29:14 pid:21879 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 13:39:42 pid:5084 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 13:39:42 pid:5084 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 13:39:42 pid:21879 Workerman[Workerman.php] stopping ...
+2020-02-28 13:39:42 pid:21879 Workerman[Workerman.php] has been stopped
+2020-02-28 13:39:42 pid:5084 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 13:39:42 pid:5086 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 13:49:42 pid:16172 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 13:49:42 pid:16172 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 13:49:42 pid:5086 Workerman[Workerman.php] stopping ...
+2020-02-28 13:49:42 pid:5086 Workerman[Workerman.php] has been stopped
+2020-02-28 13:49:42 pid:16172 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 13:49:42 pid:16174 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 13:50:40 pid:17280 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 13:50:40 pid:17280 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 13:50:40 pid:16174 Workerman[Workerman.php] stopping ...
+2020-02-28 13:50:40 pid:16174 Workerman[Workerman.php] has been stopped
+2020-02-28 13:50:40 pid:17280 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 13:50:40 pid:17286 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 14:04:26 pid:342 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 14:04:26 pid:342 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 14:04:26 pid:17286 Workerman[Workerman.php] stopping ...
+2020-02-28 14:04:26 pid:17286 Workerman[Workerman.php] has been stopped
+2020-02-28 14:04:26 pid:342 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 14:04:27 pid:344 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 14:05:00 pid:1044 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 14:05:00 pid:1044 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 14:05:00 pid:344 Workerman[Workerman.php] stopping ...
+2020-02-28 14:05:00 pid:344 Workerman[Workerman.php] has been stopped
+2020-02-28 14:05:00 pid:1044 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 14:05:00 pid:1046 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 14:19:10 pid:16672 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 14:19:10 pid:16672 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 14:19:10 pid:1046 Workerman[Workerman.php] stopping ...
+2020-02-28 14:19:10 pid:1046 Workerman[Workerman.php] has been stopped
+2020-02-28 14:19:10 pid:16672 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 14:19:10 pid:16690 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 14:19:53 pid:17549 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 14:19:53 pid:17549 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 14:19:53 pid:16690 Workerman[Workerman.php] stopping ...
+2020-02-28 14:19:53 pid:16690 Workerman[Workerman.php] has been stopped
+2020-02-28 14:19:53 pid:17549 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 14:20:17 pid:18072 Workerman[Workerman.php] start in DEBUG mode
+2020-02-28 14:28:17 pid:18072 Workerman[Workerman.php] stopping ...
+2020-02-28 14:28:17 pid:18072 Workerman[Workerman.php] has been stopped
+2020-02-28 14:28:29 pid:27213 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 14:39:53 pid:7466 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 14:39:53 pid:7466 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 14:39:53 pid:27213 Workerman[Workerman.php] stopping ...
+2020-02-28 14:39:53 pid:27213 Workerman[Workerman.php] has been stopped
+2020-02-28 14:39:53 pid:7466 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 14:39:54 pid:7468 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-02-28 14:44:25 pid:12568 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-02-28 14:44:25 pid:12568 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-02-28 14:44:25 pid:7468 Workerman[Workerman.php] stopping ...
+2020-02-28 14:44:25 pid:7468 Workerman[Workerman.php] has been stopped
+2020-02-28 14:44:25 pid:12568 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-02-28 14:44:25 pid:12576 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-03-11 12:17:26 pid:9719 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-03-11 12:17:26 pid:9719 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-03-11 12:17:26 pid:12576 Workerman[Workerman.php] stopping ...
+2020-03-11 12:17:26 pid:12576 Workerman[Workerman.php] has been stopped
+2020-03-11 12:17:26 pid:9719 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-03-11 12:17:26 pid:9721 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-03-11 12:31:50 pid:25725 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-03-11 12:31:50 pid:25725 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-03-11 12:31:50 pid:9721 Workerman[Workerman.php] stopping ...
+2020-03-11 12:31:50 pid:9721 Workerman[Workerman.php] has been stopped
+2020-03-11 12:31:50 pid:25725 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-03-11 12:31:50 pid:25727 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode
+2020-03-11 13:34:41 pid:30261 Workerman[/data/wwwroot/mol/Workerman.php] stop 
+2020-03-11 13:34:41 pid:30261 Workerman[/data/wwwroot/mol/Workerman.php] is stopping ...
+2020-03-11 13:34:41 pid:25727 Workerman[Workerman.php] stopping ...
+2020-03-11 13:34:41 pid:25727 Workerman[Workerman.php] has been stopped
+2020-03-11 13:34:41 pid:30261 Workerman[/data/wwwroot/mol/Workerman.php] stop success
+2020-03-11 13:34:41 pid:30263 Workerman[/data/wwwroot/mol/Workerman.php] start in DEBUG mode

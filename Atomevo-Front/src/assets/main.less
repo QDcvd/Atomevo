@@ -1,0 +1,166 @@
+
+body{
+  overflow: hidden;
+  color: #606266;
+  height: calc(100% - 5rem);
+}
+:focus{
+  outline: none;
+}
+//滚动条样式
+::-webkit-scrollbar-track-piece {
+  background-color: #fff;
+  -webkit-border-radius: 0
+}
+::-webkit-scrollbar {
+  width: 0.5rem;
+  height: 10px
+}
+::-webkit-scrollbar-thumb {
+  height: 1rem;
+  background-color: #d9ecff;
+  border-radius: 0.2rem;
+  border: 0.1rem solid #fff;
+  opacity: 0.5
+}
+::-webkit-scrollbar-thumb:hover {
+
+  background-color: #63b1ff;
+
+}
+//结束
+.el-container{
+  height: 100%;
+}
+.mag-background{
+  background-color: #ebf1f5;
+  height: 100vh;
+}
+
+.mag-step{
+  margin:0 1rem 1rem;
+}
+
+.mag-step-left{
+  margin:0 1rem 1rem;
+  background-color: #ebf1f5;
+  padding: 1rem;
+  border-radius:0.5rem;
+
+  .res-error{
+    border-radius:0.2rem;
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+  .el-icon-success{
+    color: #67c23a;
+  }
+  .el-icon-error{
+    color: #e01211;
+  }
+}
+
+.mag-step-right{
+  margin:0 1rem 1rem;
+  background-color: #ebf1f5;
+  padding: 1rem;
+  border-radius:0.5rem;
+}
+.mag-notify{
+  color: #67c23a;
+}
+
+.mag-notify2{
+   color: #3f9eff;
+ }
+
+.mag-notify3{
+  color: #e01211;
+}
+.diyname{
+  display: inline-block;
+  width: 50%;
+  //margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.1rem;
+}
+.mag-carousel{
+
+}
+
+
+.mag-step-block{
+  margin:0 1rem 1rem;
+  background-color: #ebf1f5;
+  padding: 1rem;
+  border-radius:0.5rem;
+
+  .res-error{
+    border-radius:0.2rem;
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+  .el-icon-success{
+    color: #67c23a;
+  }
+  .el-icon-error{
+    color: #e01211;
+  }
+}
+
+.mag-bottom-btn{
+    text-align: center;
+}
+
+/* fade-transform */
+.fade-transform-leave-active,
+.fade-transform-enter-active {
+  transition: all .2s;
+}
+
+.fade-transform-enter {
+
+  //transform: translateX(30px);
+  //opacity: 0;
+
+  -webkit-transform: translateX(30px);
+  transform: translateX(30px);
+  opacity: 0.8;
+  //transition: transform 100ms linear;
+
+  will-change: transform;
+}
+
+.fade-transform-leave-to {
+
+  //transform: translateX(-30px);
+  //opacity: 0;
+
+  -webkit-transform: translateX(-30px);
+  transform: translateX(-30px);
+  opacity: 0;
+  //transition: transform 80ms linear;
+  will-change: transform;
+
+}
+#nprogress  {     //进度条颜色
+  .bar{
+    background: #39bae9 !important;
+  }
+}
+
+
+.new-data-list {      //表格高亮显示class
+
+  .table-time, .table-id, .table-name {
+    color: #5daf34;
+    font-weight: bold;
+  }
+
+}
+
+.tool-declaration{
+    font-size: 0.5rem;
+    font-weight: normal;
+
+}

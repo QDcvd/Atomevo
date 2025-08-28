@@ -1,0 +1,11 @@
+{
+    "require": {
+        "catfan/medoo": "^1.7",
+        "guojikai/captcha-image-creator": "^1.0",
+        "workerman/phpsocket.io": "^1.1",
+        "phpmailer/phpmailer": "^6.0",
+        "phpoffice/phpspreadsheet": "^1.10",
+        "tencentcloud/tencentcloud-sdk-php": "^3.0",
+        "qcloud/cos-sdk-v5": "^2.0"
+    }
+}

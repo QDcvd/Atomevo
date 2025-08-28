@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "949287",
+      "name": "列表",
+      "font_class": "listview",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1391139",
+      "name": "cpu",
+      "font_class": "cpu",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "2021141",
+      "name": "列表",
+      "font_class": "liebiaomoshi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11241066",
+      "name": "cpu",
+      "font_class": "cpu1",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    }
+  ]
+}

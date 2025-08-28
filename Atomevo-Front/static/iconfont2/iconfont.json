@@ -1,0 +1,79 @@
+{
+  "id": "1649333",
+  "name": "magicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1200587",
+      "name": "log",
+      "font_class": "log_icon",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "12775239",
+      "name": "txt",
+      "font_class": "txt_icon",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2160840",
+      "name": "file",
+      "font_class": "file_icon",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3129904",
+      "name": "xml",
+      "font_class": "xml_icon",
+      "unicode": "e9b8",
+      "unicode_decimal": 59832
+    },
+    {
+      "icon_id": "3238008",
+      "name": "csv",
+      "font_class": "csv_icon",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "4439421",
+      "name": "zip",
+      "font_class": "zip_icon",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5662441",
+      "name": "pdf",
+      "font_class": "pdf_icon",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "5868838",
+      "name": "xls",
+      "font_class": "xls_icon",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "7619617",
+      "name": "文件",
+      "font_class": "dist_icon",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "9258452",
+      "name": "dat",
+      "font_class": "dat_icon",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    }
+  ]
+}

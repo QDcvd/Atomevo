@@ -1,0 +1,10 @@
+#############START#############
+
+####定时删除Cos中的运算结果文件####
+clearCosFile.php
+#######定时备份MYSQL############
+databases_backup.sh
+######定时删除备份MYSQL##########
+del_backup.php
+
+#############END###############
