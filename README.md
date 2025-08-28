@@ -8,6 +8,9 @@ Atomevo-Rear是Atomevo的后端部分，主要代码以php语言进行编写，�
 1．	anaconda2（实现python环境切换）安装路径：/root/anaconda2
 
 2．	LNMP环境搭建，推荐使用oneinstack一键安装，勾选完环境之后复制命令到linux执行即可（https://oneinstack.com/auto/）
+
+<img width="865" height="677" alt="image" src="https://github.com/user-attachments/assets/9fbf7037-fa0c-4d64-a9ce-1e86f27c37bc" />
+
  
 3．	Nginx配置文件路径：/usr/local/nginx/conf/vhost，每个域名对应一个配置文件
  
@@ -22,6 +25,7 @@ wwwroot下的dist对应科研计算前端文件，Atomevo-Rear对应后端文件
 基本原理可参照：
 浏览器进入科研计算平台F12启用控制台再点击对应功能（下图点击通知中心），可以看到前端请求接口地址
 
+<img width="815" height="381" alt="image" src="https://github.com/user-attachments/assets/f6711d7f-8255-44ca-8216-bdf4ccaa29d6" />
 
 
 
@@ -30,12 +34,12 @@ wwwroot下的dist对应科研计算前端文件，Atomevo-Rear对应后端文件
 当你看到前端请求的链接时，https://atomevo.com/magapi/  +  文件夹路径，method对应文件名称，action 对应文件中的方法名称即可
 Token文件夹处理登陆密钥相关信息
 			  
-
+<img width="828" height="313" alt="image" src="https://github.com/user-attachments/assets/02a28828-89f6-4cb1-a95c-cc500728a60a" />
 
 
 （2）Atomevo-Rear后端代码配置文件：
 
-
+<img width="552" height="503" alt="image" src="https://github.com/user-attachments/assets/fbfa6eb9-1142-487f-8ce4-cc3da0222f24" />
 
 
 （3）config文件夹存放基本配置信息：
@@ -56,7 +60,7 @@ core文件夹下的Cache.php存放reids缓存配置以及方法
 放计算任务完成前后的文件，需要复制以及执行，所以一般都在linux给到全部权限 chmod +x 777 ./down
 timing文件夹存放定时脚本，参照说明(linux上crontab –l命令可查)：
 
-
+<img width="730" height="433" alt="image" src="https://github.com/user-attachments/assets/c81867c3-cde2-4756-8c9a-c7572c9b21c2" />
 
 
 （6）upload文件夹存放用户上传文件
@@ -66,6 +70,5 @@ timing文件夹存放定时脚本，参照说明(linux上crontab –l命令可�
 （8）Service.php为启用workerman推送等任务脚本：
 		 
 通过linux上后台执行此文件，实现服务的实时启动和监控
- 
-		（9）其余相关文件为php扩展等配置类，基本不用操作，所以此处不作说明
+（9）其余相关文件为php扩展等配置类，基本不用操作，所以此处不作说明
 
